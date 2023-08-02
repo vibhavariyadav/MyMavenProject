@@ -15,10 +15,5 @@ public class CalculatorTest {
 		int act=cal.add(20, 20);
 		assertEquals(exp,act);
 	}
-	@Test
-	public void change()
-	{
-		System.out.println("Temporary Trial code");
-	}
 
 }
