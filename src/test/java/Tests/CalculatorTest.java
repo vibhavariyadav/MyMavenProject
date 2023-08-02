@@ -15,9 +15,5 @@ public class CalculatorTest {
 		int act=cal.add(20, 20);
 		assertEquals(exp,act);
 	}
-	@Test
-	public void revert()
-	{
-		System.out.println("Tto check revert");
-	}
+
 }
