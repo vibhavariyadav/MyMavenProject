@@ -15,5 +15,12 @@ public class CalculatorTest {
 		int act=cal.add(20, 20);
 		assertEquals(exp,act);
 	}
+	
+	@Test
+	public void newTestA()
+	{
+		System.out.println("user a added");
+	}
+	
 
 }
