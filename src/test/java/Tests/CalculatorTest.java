@@ -20,5 +20,10 @@ public class CalculatorTest {
 	{
 		System.out.println("user a added");
 	}
-
+	
+	@Test
+	public void newTestB()
+	{
+		System.out.println("user B added");
+	}
 }
