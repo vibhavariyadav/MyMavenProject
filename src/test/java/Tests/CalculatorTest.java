@@ -16,9 +16,9 @@ public class CalculatorTest {
 		assertEquals(exp,act);
 	}
 	@Test
-	public void newTestB()
+	public void newTestA()
 	{
-		System.out.println("user B added");
+		System.out.println("user a added");
 	}
 
 }
